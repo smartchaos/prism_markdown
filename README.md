@@ -11,10 +11,10 @@ Maybe `'your python folder'/Lib\site-packages\markdown\extensions`
 ### Write your code in markdown. better use \`\`\` notion
 f.e. 
 ```
-\`\`\`python  
-\#Just print "hello world"  
+\\\python  
+#Just print "hello world"  
 print "hello world"  
-\`\`\`
+\\\
 ```
 ### Transfer the markdown file to html
 `html = markdown.markdown(md, ['prism_code'])`  
