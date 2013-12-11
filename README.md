@@ -8,10 +8,10 @@ Now you can hightlight your code this way:
 ### Put the prism_code.py file to markdown extensions folder
 Maybe 'your python folder'/Lib\site-packages\markdown\extensions 
 
-### Write your code in markdown. better use ``` notion
+### Write your code in markdown. better use \`\`\` notion
 f.e. 
 \`\`\`python
-#Just print "hello world"
+\#Just print "hello world"
 print "hello world"
 \`\`\`
 ### Transfer the markdown file to html
