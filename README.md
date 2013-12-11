@@ -25,7 +25,7 @@ the generated html maybe:
 print "hello world"
 </code></pre>
 ```
-Wonderfull!
+Wonderfull! This is what prism wants.
 ### Import the prism.css file and prism.js(choose to include python) to your page
 Now in the page that contains the python code can be beautifully hightlighted!
 
